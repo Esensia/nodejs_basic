@@ -1,0 +1,14 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "nodejs", "nodejs.mdproj", "{3BB3A627-4DF5-43C2-A886-7E83A5C7AF85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BB3A627-4DF5-43C2-A886-7E83A5C7AF85}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{3BB3A627-4DF5-43C2-A886-7E83A5C7AF85}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ItemType>GenericProject</ItemType>
+    <ProjectGuid>{3BB3A627-4DF5-43C2-A886-7E83A5C7AF85}</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Default|AnyCPU' ">
+    <OutputPath>.\</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="index.html" />
+    <None Include="coding.jpg" />
+    <None Include="checkbox.html" />
+    <None Include="3.html" />
+    <None Include="2.html" />
+    <None Include="1.html" />
+    <None Include="main.js" />
+    <None Include="syntax\Number.js" />
+    <None Include="syntax\string.js" />
+    <None Include="syntax\variable.js" />
+    <None Include="syntax\template.js" />
+    <None Include="nodejs\fileread.js" />
+    <None Include="nodejs\sample.txt" />
+    <None Include="data\CSS.txt" />
+    <None Include="data\HTML.txt" />
+    <None Include="data\JavaScript.txt" />
+    <None Include="syntax\program1.js" />
+    <None Include="syntax\conditional.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="syntax\" />
+    <Folder Include="nodejs\" />
+    <Folder Include="data\" />
+  </ItemGroup>
+</Project>

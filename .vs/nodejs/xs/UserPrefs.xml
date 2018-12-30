@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3BB3A627-4DF5-43C2-A886-7E83A5C7AF85}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="main.js">
+    <Files>
+      <File FileName="main.js" Line="26" Column="14" />
+      <File FileName="syntax/Number.js" Line="4" Column="17" />
+      <File FileName="syntax/string.js" Line="3" Column="20" />
+      <File FileName="syntax/variable.js" Line="2" Column="19" />
+      <File FileName="syntax/template.js" Line="15" Column="21" />
+      <File FileName="1.html" Line="18" Column="3" />
+      <File FileName="nodejs/fileread.js" Line="4" Column="4" />
+      <File FileName="nodejs/sample.txt" Line="2" Column="25" />
+      <File FileName="data/JavaScript.txt" Line="2" Column="3" />
+      <File FileName="data/CSS.txt" Line="2" Column="3" />
+      <File FileName="3.html" Line="17" Column="3" />
+      <File FileName="data/HTML.txt" Line="2" Column="3" />
+      <File FileName="syntax/program1.js" Line="3" Column="1" />
+      <File FileName="syntax/conditional.js" Line="5" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.nodejs FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
